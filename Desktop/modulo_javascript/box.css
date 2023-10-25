@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+
+}div {
+    height: 400px;
+    width: 400px;
+    margin:auto;
+    padding: 10px;
+    border: 20px solid rgb(188, 10, 185);
+    background-image: url(fivela-maxi-orquidea-roxa-flor-de-cabelo\ \(1\).webp);
+    text-align: center;
+    box-shadow: inset 10px 10px 5px 15px  red ;
+    background-size: cover;
+    outline: 20px double rebeccapurple;
+    margin-top: 100px;
+
+   }
+
+   p {
+    padding-top: 150px;
+    font-size: italic;
+    font-size: 50px;
+    font-weight: bold;
+    color: yellow;
+   }
